@@ -1,0 +1,8 @@
+"./clock.obj"
+"./gpio.obj"
+"./nvic.obj"
+"./project_Shameen_Shetty.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./wait.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
