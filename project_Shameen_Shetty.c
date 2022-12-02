@@ -41,7 +41,6 @@
 #define C3_OUTPUT 64 // PC6 = 2^6 = 64
 
 #define IR_SENSOR_PIN 64 // PA6 = 2^6 = 64
-
 #define SPEAKER_PIN 2 // PD1 = 2^1 = 2
 
 
